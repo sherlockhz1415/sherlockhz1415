@@ -1,9 +1,9 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sherlockhz1415&show_icons=true&hide_border=true&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sherlockhz1415&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true">
 </a>
 
 
-### Hi there 👋
+### 👋
 
 <!--
 **sherlockhz1415/sherlockhz1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
