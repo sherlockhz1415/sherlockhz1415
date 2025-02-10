@@ -3,7 +3,7 @@
 </a>
 
 
-### Hi there, welcome to Bo's Github 👋
+### Hi there 👋
 
 <!--
 **sherlockhz1415/sherlockhz1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
